@@ -1,0 +1,9 @@
+{
+    "timeout": "3s",
+    "diff": true,
+    "recursive": true,
+    "ui": "tdd",
+    "exit": true,
+    "extension": ["ts"],
+    "require": "ts-node/register"
+}
